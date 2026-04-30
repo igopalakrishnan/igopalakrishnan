@@ -29,20 +29,21 @@
 
 ## Languages and Tools/Frameworks
 <div style="display:flex; align-items:center; justify-content:center; gap:12px; flex-wrap:wrap;">
-  <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/css3.png" alt="css"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/bootstrap--v2.png" alt="bootstrap"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/tailwind_css.png" alt="tailwind"/>
-  <img width="48" height="48" src="https://img.icons8.com/arcade/64/javascript.png" alt="javascript"/>
-  <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png" alt="react"/>
-  <img width="48" height="48" src="https://img.icons8.com/fluency/48/node-js.png" alt="node"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/mongo-db.png" alt="mongo"/>
-  <img width="48" height="48" src="https://img.icons8.com/fluency/48/express-js.png" alt="express"/>
-  <img width="48" height="48" src="https://img.icons8.com/fluency/48/visual-studio-code-2019.png" alt="vscode"/>
-  <img width="48" height="48" src="https://img.icons8.com/fluency/48/vite.png" alt="vite"/>
-  <img width="48" height="48" src="https://img.icons8.com/plasticine/100/sketch.png" alt="sketch"/>
-  <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/external-postman-is-the-only-complete-api-development-environment-logo-shadow-tal-revivo.png" alt="postman"/>
+  <img src="https://img.icons8.com/color/48/html-5--v1.png" alt="html" width="48" height="48"/>
+  <img src="https://img.icons8.com/color/48/css3.png" alt="css" width="48" height="48"/>
+  <img src="https://img.icons8.com/color/48/bootstrap--v2.png" alt="bootstrap" width="48" height="48"/>
+  <img src="https://img.icons8.com/color/48/tailwind_css.png" alt="tailwind" width="48" height="48"/>
+  <img src="https://img.icons8.com/arcade/64/javascript.png" alt="javascript" width="48" height="48"/>
+  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png" alt="react" width="48" height="48"/>
+  <img src="https://img.icons8.com/fluency/48/node-js.png" alt="node" width="48" height="48"/>
+  <img src="https://img.icons8.com/color/48/mongo-db.png" alt="mongo" width="48" height="48"/>
+  <img src="https://img.icons8.com/fluency/48/express-js.png" alt="express" width="48" height="48"/>
+  <img src="https://img.icons8.com/fluency/48/visual-studio-code-2019.png" alt="vscode" width="48" height="48"/>
+  <img src="https://img.icons8.com/fluency/48/vite.png" alt="vite" width="48" height="48"/>
+  <img src="https://img.icons8.com/plasticine/100/sketch.png" alt="sketch" width="48" height="48"/>
+  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/external-postman-is-the-only-complete-api-development-environment-logo-shadow-tal-revivo.png" alt="postman" width="48" height="48"/>
 </div>
+
 
 
 
