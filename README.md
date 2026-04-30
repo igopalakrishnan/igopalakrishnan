@@ -11,4 +11,4 @@
 <hr />
 
 ### Connect With Me:
-[<img width="30" height="30" src="https://img.icons8.com/ios-filled/50/globe--v1.png" alt="globe--v1"/>](myprofilepo.netlify.app)
+[<img width="24" height="24" src="https://img.icons8.com/material-outlined/24/globe--v1.png" alt="globe--v1"/>](myprofilepo.netlify.app)
