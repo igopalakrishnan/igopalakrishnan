@@ -12,5 +12,19 @@
 
 ### Connect With Me:
 
-[<img width="24" height="24" src="https://img.icons8.com/material-outlined/24/globe--v1.png" alt="website"/>](https://myprofilepo.netlify.app) [<img width="24" height="24" src="https://img.icons8.com/material-sharp/24/linkedin--v1.png" alt="linkedin"/>](https://www.linkedin.com/in/igopalakrishnan/) [<img width="24" height="24" src="https://img.icons8.com/material/24/instagram-new--v1.png" alt="instagram"/>](https://www.instagram.com/i__gopalakrishnan/) [<img width="24" height="24" src="https://img.icons8.com/material/24/facebook-new.png" alt="facebook"/>](https://www.facebook.com/igopalakrishnan/)
+<p align="center">
+  <a href="https://myprofilepo.netlify.app">
+    <img src="https://img.icons8.com/material-outlined/24/globe--v1.png" alt="website"/>
+  </a>
+  <a href="https://www.linkedin.com/in/igopalakrishnan/">
+    <img src="https://img.icons8.com/material-sharp/24/linkedin--v1.png" alt="linkedin"/>
+  </a>
+  <a href="https://www.instagram.com/i__gopalakrishnan/">
+    <img src="https://img.icons8.com/material/24/instagram-new--v1.png" alt="instagram"/>
+  </a>
+  <a href="https://www.facebook.com/igopalakrishnan/">
+    <img src="https://img.icons8.com/material/24/facebook-new.png" alt="facebook"/>
+  </a>
+</p>
+
 
