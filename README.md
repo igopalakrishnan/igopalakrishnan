@@ -10,22 +10,24 @@
 - 📫 How to reach me: [gokul311098@gmail.com](gokul311098@gmail.com)
 <hr />
 
-### Connect With Me:
+### Connect With Me
 
 <p align="">
   <a href="https://myprofilepo.netlify.app">
-    <img src="https://img.icons8.com/material-outlined/24/globe--v1.png" alt="website"/>
-  </a>&nbsp;&nbsp;
+    <img src="https://img.icons8.com/material-outlined/24/globe--v1.png" alt="website" style="margin:0 10px;"/>
+  </a>
   <a href="https://www.linkedin.com/in/igopalakrishnan/">
-    <img src="https://img.icons8.com/material-sharp/24/linkedin--v1.png" alt="linkedin"/>
-  </a>&nbsp;&nbsp;
+    <img src="https://img.icons8.com/material-sharp/24/linkedin--v1.png" alt="linkedin" style="margin:0 10px;"/>
+  </a>
   <a href="https://www.instagram.com/i__gopalakrishnan/">
-    <img src="https://img.icons8.com/material/24/instagram-new--v1.png" alt="instagram"/>
-  </a>&nbsp;&nbsp;
+    <img src="https://img.icons8.com/material/24/instagram-new--v1.png" alt="instagram" style="margin:0 10px;"/>
+  </a>
   <a href="https://www.facebook.com/igopalakrishnan/">
-    <img src="https://img.icons8.com/material/24/facebook-new.png" alt="facebook"/>
+    <img src="https://img.icons8.com/material/24/facebook-new.png" alt="facebook" style="margin:0 10px;"/>
   </a>
 </p>
 
+## Languages and Tools/Frameworks
+<img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/> <img width="48" height="48" src="https://img.icons8.com/color/48/css3.png" alt="css3"/> <img width="48" height="48" src="https://img.icons8.com/color/48/bootstrap--v2.png" alt="bootstrap--v2"/> <img width="48" height="48" src="https://img.icons8.com/color/48/tailwind_css.png" alt="tailwind_css"/> <img width="64" height="64" src="https://img.icons8.com/arcade/64/javascript.png" alt="javascript"/> <img width="24" height="24" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png" alt="external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo"/> <img width="48" height="48" src="https://img.icons8.com/fluency/48/node-js.png" alt="node-js"/> <img width="48" height="48" src="https://img.icons8.com/color/48/mongo-db.png" alt="mongo-db"/> <img width="48" height="48" src="https://img.icons8.com/fluency/48/express-js.png" alt="express-js"/> <img width="48" height="48" src="https://img.icons8.com/fluency/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/> <img width="48" height="48" src="https://img.icons8.com/fluency/48/vite.png" alt="vite"/> <img width="148" height="48" src="https://img.icons8.com/plasticine/100/sketch.png" alt="sketch"/>
 
 
