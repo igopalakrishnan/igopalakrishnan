@@ -12,4 +12,4 @@
 
 ### Connect With Me:
 
-[<img width="24" height="24" src="https://img.icons8.com/material-outlined/24/globe--v1.png" />](myprofilepo.netlify.app) [<img width="24" height="24" src="https://img.icons8.com/material-sharp/24/linkedin--v1.png" />](https://www.linkedin.com/in/igopalakrishnan/)[<img width="24" height="24" src="https://img.icons8.com/material/24/instagram-new--v1.png" />](https://www.instagram.com/i__gopalakrishnan/)[<img width="24" height="24" src="https://img.icons8.com/material/24/facebook-new.png" />](https://www.facebook.com/igopalakrishnan/)
+![<img width="24" height="24" src="https://img.icons8.com/material-outlined/24/globe--v1.png" />](myprofilepo.netlify.app) ![<img width="24" height="24" src="https://img.icons8.com/material-sharp/24/linkedin--v1.png" />](https://www.linkedin.com/in/igopalakrishnan/)![<img width="24" height="24" src="https://img.icons8.com/material/24/instagram-new--v1.png" />](https://www.instagram.com/i__gopalakrishnan/)![<img width="24" height="24" src="https://img.icons8.com/material/24/facebook-new.png" />](https://www.facebook.com/igopalakrishnan/)
