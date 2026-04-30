@@ -10,5 +10,5 @@
 - 📫 How to reach me: [gokul311098@gmail.com](gokul311098@gmail.com)
 <hr />
 
-### Connect With Me:
-<img width="24" height="24" src="https://img.icons8.com/material-outlined/24/globe--v1.png" alt="globe--v1"/>(myprofilepo.netlify.app) <img width="24" height="24" src="https://img.icons8.com/material-sharp/24/linkedin--v1.png" alt="linkedin--v1"/>(https://www.linkedin.com/in/igopalakrishnan/)<img width="24" height="24" src="https://img.icons8.com/material/24/instagram-new--v1.png" alt="instagram-new--v1"/>(https://www.instagram.com/i__gopalakrishnan/)<img width="24" height="24" src="https://img.icons8.com/material/24/facebook-new.png" alt="facebook-new"/>(https://www.facebook.com/igopalakrishnan/)
+### Connect With Me:<hr />
+[<img width="24" height="24" src="https://img.icons8.com/material-outlined/24/globe--v1.png" alt="globe--v1"/>](myprofilepo.netlify.app) [<img width="24" height="24" src="https://img.icons8.com/material-sharp/24/linkedin--v1.png" alt="linkedin--v1"/>](https://www.linkedin.com/in/igopalakrishnan/)[<img width="24" height="24" src="https://img.icons8.com/material/24/instagram-new--v1.png" alt="instagram-new--v1"/>](https://www.instagram.com/i__gopalakrishnan/)[<img width="24" height="24" src="https://img.icons8.com/material/24/facebook-new.png" alt="facebook-new"/>](https://www.facebook.com/igopalakrishnan/)
