@@ -13,19 +13,20 @@
 ### Connect With Me
 
 <p align="">
-  <a href="https://myprofilepo.netlify.app">
+  <a href="https://myprofilepo.netlify.app" target="_blank">
     <img src="https://img.icons8.com/material-outlined/24/globe--v1.png" alt="website" style="margin:0 10px;"/>
   </a>
-  <a href="https://www.linkedin.com/in/igopalakrishnan/">
+  <a href="https://www.linkedin.com/in/igopalakrishnan/" target="_blank">
     <img src="https://img.icons8.com/material-sharp/24/linkedin--v1.png" alt="linkedin" style="margin:0 10px;"/>
   </a>
-  <a href="https://www.instagram.com/i__gopalakrishnan/">
+  <a href="https://www.instagram.com/i__gopalakrishnan/" target="_blank">
     <img src="https://img.icons8.com/material/24/instagram-new--v1.png" alt="instagram" style="margin:0 10px;"/>
   </a>
-  <a href="https://www.facebook.com/igopalakrishnan/">
+  <a href="https://www.facebook.com/igopalakrishnan/" target="_blank">
     <img src="https://img.icons8.com/material/24/facebook-new.png" alt="facebook" style="margin:0 10px;"/>
   </a>
 </p>
+
 
 ## Languages and Tools/Frameworks
 <table>
@@ -46,6 +47,9 @@
   </tr>
 </table>
 
+### Workspace Spec
+
+[![Gopalakrishnan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=igopalakrishnan&bg_color=000000&color=ffffff&line=18d82e&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
