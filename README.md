@@ -12,7 +12,7 @@
 
 ### Connect With Me:
 
-<p align="center">
+<p align="">
   <a href="https://myprofilepo.netlify.app">
     <img src="https://img.icons8.com/material-outlined/24/globe--v1.png" alt="website"/>
   </a>
